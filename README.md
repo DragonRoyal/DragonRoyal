@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DragonRoyal!</h1>
+<h1 align="center">Hi 👋, I'm Aarav!</h1>
 <h3 align="center">Beginner rust and backend developer</h3>
 
 - 🔭 I’m currently working on [Periodic-Table](https://github.com/DragonRoyal/Periodic-Table)
